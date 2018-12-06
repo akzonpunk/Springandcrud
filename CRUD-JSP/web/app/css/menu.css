@@ -1,0 +1,9 @@
+#contenedornav{
+    font-family: Arial;
+    font-size: 60px;
+    text-decoration: none;
+    float: left;
+    padding: 500px;
+    background-color: #2175bc;
+    color: #fff;
+}
